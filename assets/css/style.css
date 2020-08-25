@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   height: 100vh;
   display: flex;
-  align-items: right;
+  align-items: left;
   z-index: 997;
   overflow-y: auto;
 }
